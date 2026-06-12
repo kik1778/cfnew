@@ -27,7 +27,8 @@ let 自定义加密客户端问候域名 = 'cloudflare-ech.com';
 let 自定义应用层协议协商 = '';
 let 订阅转换接口 = 'https://url.v1.mk/sub';
 // 远程配置URL（硬编码）
-const 远程配置网址 = 'https://raw.githubusercontent.com/byJoey/test/refs/heads/main/tist.ini';
+// 修改为你的自定义配置链接（确保填入你自己的真实 Raw 地址）：
+const 远程配置网址 = 'https://raw.githubusercontent.com/kik1778/ruler-openclash/main/metafenliu.ini';
 let 启用优选域名 = true; // 优选域名默认关闭
 let 启用优选地址 = true;
 let 启用仓库优选 = true;
